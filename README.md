@@ -17,9 +17,9 @@ This repository contains Python code for talking to the cat printer over Bluetoo
 
 # Clone the repository.
 
-$  git  clone  git@github.com:eshangonemad/kittyprinar
+$  git  clone  git@github.com:eshangonemad/Catprinter-Python-API
 
-$  cd  kittyprinar
+$  cd  Catprinter-Python-API
 
 # Create a virtualenv on venv/ and activate it.
 
