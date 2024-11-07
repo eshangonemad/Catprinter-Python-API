@@ -2,7 +2,7 @@
 ![Cat Printer](./media/hackoclock.jpg)
 
   
-The Cat Printer / Kitty Printer / mini thermal printer
+
 Cat printer is a portable thermal printer sold on AliExpress for around $20.
 
   
