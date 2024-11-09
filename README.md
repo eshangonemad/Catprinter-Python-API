@@ -11,7 +11,8 @@ This project is a unified solution that helps developers create better applicati
 	- Font selection
  2. Image printing 
 	- multiple image conversion methods
-## Installation
+ 3. Auto Printer Detection
+ - ## Installation
 	
  - Basic way
 		
